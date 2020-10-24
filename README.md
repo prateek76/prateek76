@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h2 align="center">GeekHaven | Final_Year@IIITA</h2>
+<h3 align="center">GeekHaven | Final_Year@IIITA</h3>
 
 <!--
 **prateek76/prateek76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
